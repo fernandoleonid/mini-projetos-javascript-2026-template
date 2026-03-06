@@ -96,4 +96,3 @@ Você deve criar um app que calcule o IMC do usuário.
 ---
 
 **Prof. Fernando Leonid**
-# mini-projetos-javascript-2026-template
